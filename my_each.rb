@@ -9,4 +9,4 @@ def my_each(words)
     words
   else puts "#{word} cannot be an array"
 end
-end 
+end
