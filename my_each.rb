@@ -7,6 +7,5 @@ def my_each(words)
       i+=1
     end
     words
-  else puts "#{word} cannot be an array"
 end
 end
