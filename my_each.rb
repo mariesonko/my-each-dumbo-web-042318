@@ -6,6 +6,7 @@ def my_each(words)
       yield words[i]
       i+=1
     end
-    words 
+    words
   else puts "#{word} cannot be an array"
 end
+end 
